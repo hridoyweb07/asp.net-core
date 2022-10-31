@@ -1,0 +1,254 @@
+E:\Repository_Test\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.deps.json
+E:\Repository_Test\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.runtimeconfig.json
+E:\Repository_Test\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.runtimeconfig.dev.json
+E:\Repository_Test\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.dll
+E:\Repository_Test\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.pdb
+E:\Repository_Test\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.Views.dll
+E:\Repository_Test\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.Views.pdb
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csproj.CoreCompileInputs.cache
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorAssemblyInfo.cache
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorAssemblyInfo.cs
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.AssemblyInfoInputs.cache
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.AssemblyInfo.cs
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.TagHelpers.input.cache
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.TagHelpers.output.cache
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorCoreGenerate.cache
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorTargetAssemblyInfo.cache
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorTargetAssemblyInfo.cs
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.Views.pdb
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.dll
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.pdb
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csproj.CopyComplete
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\_ViewImports.g.cshtml.cs
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\_ViewStart.g.cshtml.cs
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csprojAssemblyReference.cache
+E:\Repository_Test\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\Employee\Index.g.cshtml.cs
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.deps.json
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.runtimeconfig.json
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.runtimeconfig.dev.json
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.dll
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.pdb
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.Views.dll
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.Views.pdb
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csprojAssemblyReference.cache
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csproj.CoreCompileInputs.cache
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorAssemblyInfo.cache
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorAssemblyInfo.cs
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.AssemblyInfoInputs.cache
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.AssemblyInfo.cs
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.TagHelpers.input.cache
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.TagHelpers.output.cache
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorCoreGenerate.cache
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\Employee\Index.g.cshtml.cs
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\_ViewImports.g.cshtml.cs
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\_ViewStart.g.cshtml.cs
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorTargetAssemblyInfo.cache
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorTargetAssemblyInfo.cs
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.Views.pdb
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.dll
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.pdb
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csproj.CopyComplete
+E:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\shared\_Layout.g.cshtml.cs
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.deps.json
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.runtimeconfig.json
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.runtimeconfig.dev.json
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.dll
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.pdb
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.Views.dll
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.Views.pdb
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csprojAssemblyReference.cache
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csproj.CoreCompileInputs.cache
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorAssemblyInfo.cache
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorAssemblyInfo.cs
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.AssemblyInfoInputs.cache
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.AssemblyInfo.cs
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.TagHelpers.input.cache
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.TagHelpers.output.cache
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorCoreGenerate.cache
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\Employee\Index.g.cshtml.cs
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\shared\_Layout.g.cshtml.cs
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\_ViewImports.g.cshtml.cs
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\_ViewStart.g.cshtml.cs
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorTargetAssemblyInfo.cache
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorTargetAssemblyInfo.cs
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.Views.pdb
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.dll
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.pdb
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csproj.CopyComplete
+F:\MY PROJECT\FULL REPOSITORY PATERN\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Inventory\Views\Inventory\Index.g.cshtml.cs
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.deps.json
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.runtimeconfig.json
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.runtimeconfig.dev.json
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.dll
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.pdb
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.Views.dll
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.Views.pdb
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csprojAssemblyReference.cache
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csproj.CoreCompileInputs.cache
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorAssemblyInfo.cache
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorAssemblyInfo.cs
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.AssemblyInfoInputs.cache
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.AssemblyInfo.cs
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.TagHelpers.input.cache
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.TagHelpers.output.cache
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorCoreGenerate.cache
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\Employee\Index.g.cshtml.cs
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\shared\_Layout.g.cshtml.cs
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\_ViewImports.g.cshtml.cs
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\_ViewStart.g.cshtml.cs
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Inventory\Views\Inventory\Index.g.cshtml.cs
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorTargetAssemblyInfo.cache
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorTargetAssemblyInfo.cs
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.Views.pdb
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.dll
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.pdb
+F:\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csproj.CopyComplete
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.deps.json
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.runtimeconfig.json
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.runtimeconfig.dev.json
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.dll
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.pdb
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.Views.dll
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.Views.pdb
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.AssemblyInfoInputs.cache
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.AssemblyInfo.cs
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csproj.CoreCompileInputs.cache
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorAssemblyInfo.cache
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorAssemblyInfo.cs
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.TagHelpers.input.cache
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.TagHelpers.output.cache
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorCoreGenerate.cache
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\Employee\Index.cshtml.g.cs
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\shared\_Layout.cshtml.g.cs
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\_ViewImports.cshtml.g.cs
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\_ViewStart.cshtml.g.cs
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Inventory\Views\Inventory\Index.cshtml.g.cs
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorTargetAssemblyInfo.cache
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorTargetAssemblyInfo.cs
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.Views.pdb
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.dll
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.pdb
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.genruntimeconfig.cache
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csproj.CopyComplete
+C:\Users\USSL\Downloads\FULL REPOSITORY PATERN CRUD OPERATION\FULL REPOSITORY PATERN CRUD OPERATION\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csproj.AssemblyReference.cache
+E:\mam\Repository\Repository_Test\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\mam\Repository\Repository_Test\bin\Debug\netcoreapp2.2\appsettings.json
+E:\mam\Repository\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.deps.json
+E:\mam\Repository\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.runtimeconfig.json
+E:\mam\Repository\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.runtimeconfig.dev.json
+E:\mam\Repository\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.dll
+E:\mam\Repository\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.pdb
+E:\mam\Repository\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.Views.dll
+E:\mam\Repository\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.Views.pdb
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.AssemblyInfoInputs.cache
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.AssemblyInfo.cs
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csproj.CoreCompileInputs.cache
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorAssemblyInfo.cache
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorAssemblyInfo.cs
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.TagHelpers.input.cache
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.TagHelpers.output.cache
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorCoreGenerate.cache
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\Employee\Index.cshtml.g.cs
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\shared\_Layout.cshtml.g.cs
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\_ViewImports.cshtml.g.cs
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\_ViewStart.cshtml.g.cs
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Inventory\Views\Inventory\Index.cshtml.g.cs
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorTargetAssemblyInfo.cache
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorTargetAssemblyInfo.cs
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.Views.pdb
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.dll
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.pdb
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.genruntimeconfig.cache
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csproj.CopyComplete
+E:\mam\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csproj.AssemblyReference.cache
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.deps.json
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.runtimeconfig.json
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.runtimeconfig.dev.json
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.dll
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.pdb
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.Views.dll
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\bin\Debug\netcoreapp2.2\Repository_Test.Views.pdb
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.AssemblyInfoInputs.cache
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.AssemblyInfo.cs
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csproj.CoreCompileInputs.cache
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorAssemblyInfo.cache
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorAssemblyInfo.cs
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.TagHelpers.input.cache
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.TagHelpers.output.cache
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorCoreGenerate.cache
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\Employee\Index.cshtml.g.cs
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\shared\_Layout.cshtml.g.cs
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\_ViewImports.cshtml.g.cs
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Employees\Views\_ViewStart.cshtml.g.cs
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Areas\Inventory\Views\Inventory\Index.cshtml.g.cs
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorTargetAssemblyInfo.cache
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.RazorTargetAssemblyInfo.cs
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.Views.pdb
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.dll
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.pdb
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.genruntimeconfig.cache
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csproj.CopyComplete
+C:\Users\nahid\OneDrive\Desktop\All Evidence\Core\Repository\Repository_Test\obj\Debug\netcoreapp2.2\Repository_Test.csproj.AssemblyReference.cache
